@@ -41,12 +41,12 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: Tanmay sontakke
 avatar: $assets.files.images.image-victor.jpg
 city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+github-url: https://www.github.com/Tanmay272003
+linkedin-url: https://www.linkedin.com/TanmaySontakke
+instagram-url: https://www.instagram.com/__tanmay__official__
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
@@ -106,12 +106,12 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: Tanmay Sontakke
 avatar: $assets.files.images.image-victor.jpg
 city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+github-url: https://www.github.com/Tanmay272003
+linkedin-url: https://www.linkedin.com/TanmaySontakke
+instagram-url: https://www.instagram.com/__tanmay__official__
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
